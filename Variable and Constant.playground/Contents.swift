@@ -12,3 +12,7 @@ intNumber = 456
 
 //Explicit
 let myConstant1: Int = 123
+
+//Display on Console 
+print(intNumber)
+print("intNumber==>\(intNumber)")
