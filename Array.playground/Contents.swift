@@ -20,3 +20,12 @@ strArrayName2 = ["AAA", "BBB", "CCC"]
 var douArrayNum3 = [1.2, 1.3, 1.4,]
 var douArrayNum4 = [Double]()
 douArrayNum4 = [2.1,2.2,2.3,]
+
+//การเพิ่มสมาชิกให้ Array 
+print("intNumber2 ==> \(intArrayNumber2)")
+intArrayNumber2.append(111)
+
+strArrayName2
+strArrayName2.append("Doramon")
+
+
